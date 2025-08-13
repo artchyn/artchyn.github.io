@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Artem Chynchenko
 
-**Full-Stack Developer** | Passionate about software development, automation, and digital innovation.  
+**Backend Developer** | Passionate about software development, automation, and digital innovation.  
 📍 Based in Arendal, Norway  
 📧 [arttchyn@gmail.com](mailto:arttchyn@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/artchyn)
